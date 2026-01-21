@@ -1,7 +1,7 @@
 📊 Desafío: Análisis de Retención de Clientes — Andes Bank
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Finalizado-success)
-![Tecnologías](https://img.shields.io/badge/Tecnologías-Python%20%7C%20Pandas%20%7C%20Seaborn-blue)
+![Tecnologías](https://img.shields.io/badge/Tecnologías-Python%20%7C%20Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-blue)
 
 ---
 
